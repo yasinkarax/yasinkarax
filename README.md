@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Student & Front end dev</h3>
-<p>adasdadasdasdsdasdadasddass</p>
+<p>I'm 22 and studying Statistics and Computer Science at Karadeniz Technical University. I'm developing some web apps with HTML, CSS and JavaScript.</p>
 <p align="left"> <a href="https://twitter.com/yasinkaraxy" target="blank"><img src="https://img.shields.io/twitter/follow/yasinkaraxy?logo=twitter&style=for-the-badge" alt="yasinkaraxy" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio Web Site](yasinkara.tech)

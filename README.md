@@ -4,7 +4,7 @@
 <p>I'm 22 and living in İstanbul.  I'm studying Statistics and Computer Science at Karadeniz Technical University. I'm developing some web apps with HTML, CSS and JavaScript.</p>
 <p align="left"> <a href="https://twitter.com/yasinkaraxy" target="blank"><img src="https://img.shields.io/twitter/follow/yasinkaraxy?logo=twitter&style=for-the-badge" alt="yasinkaraxy" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio Web Site](yasinkara.tech)
+- 🔭 I’m currently working on [My Portfolio Web Site](http://yasinkara.tech/)
 
 - 🌱 I’m currently learning **JavaScript, Sass, jQuery, Git.**
 
